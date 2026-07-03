@@ -36,3 +36,6 @@ ping -c 4 google.com
 
 Observation:
 Four packets were transmitted and received successfully with 0% packet loss, confirming network connectivity.
+<img width="1600" height="850" alt="WhatsApp Image 2026-07-03 at 23 36 40" src="https://github.com/user-attachments/assets/228715a1-4570-43cc-8135-a4ab206b7b88" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-03 at 23 37 23" src="https://github.com/user-attachments/assets/5288279c-a49a-435f-af0b-5064fab90ac1" />
+
